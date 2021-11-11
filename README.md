@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is the backend or API side of the application Where In The World Is Your Recipe. To begin, you should fork and clone this repo onto your local machine. Then you'll need to run rake db:migrate and rake db:seed. Lastly you can run rails s to start the server. Next you'll want to go to the frontend of the application and get it running! 
 
-Things you may want to cover:
+Access the frontend here: https://github.com/lreitzel/where-in-the-world-frontend
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I hope you enjoy it!
